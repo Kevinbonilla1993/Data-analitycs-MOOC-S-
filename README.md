@@ -110,7 +110,7 @@ para
 ofrecer una experiencia educativa de alta calidad y contribuir al desarrollo de habilidades en tecnología y ciencia 
 de datos en la región.
 
-<img src="udemy.jpg" alt="EDA" width="950" height="400"> 
+<img src="udemy.png" alt="EDA" width="950" height="400"> 
 
 Cursos pagos: Los análisis univariantes revelaron que la mayoría de los cursos en Udemy son de pago, con una gran 
 diferencia respecto a los cursos gratuitos. Esto indica que es importante considerar un modelo de negocio basado en 
@@ -155,7 +155,7 @@ precio de los cursos desde 2012, superando los máximos anteriores. Por otro lad
 ha disminuido desde 2016, junto con la duración de los cursos. Estas tendencias deben ser consideradas al diseñar un 
 nuevo MOOC y ajustar la estrategia de precios para adaptarse al mercado actual.
 
-<img src="coursera.jpg" alt="EDA" width="950" height="400"> 
+<img src="coursera.png" alt="EDA" width="950" height="400"> 
 
 En un análisis exhaustivo de Coursera, se descubrió que la institución con la mayor cantidad de cursos 
 era la Universidad de Michigan, con un asombroso total de 57,197 cursos. Era evidente que esta 
