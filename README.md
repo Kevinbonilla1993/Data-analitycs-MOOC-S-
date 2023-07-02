@@ -19,7 +19,7 @@ Con el avance de la Inteligencia Artificial (IA), el alcance y la calidad de las
 considerablemente. Utilizando un conjunto de datos de cursos de edX, llevamos a cabo un análisis exhaustivo para 
 crear una MOOC exitosa enfocada en tecnología y ciencia de datos.
 
-EDA Edx
+<img src="edx.jpg" alt="EDA" width="950" height="400">
 
 Comenzamos explorando el conjunto de datos y realizando transformaciones y limpieza para obtener información 
 relevante. Eliminamos columnas innecesarias, como sílabas, URL, descripción detallada y título, para enfocarnos en 
