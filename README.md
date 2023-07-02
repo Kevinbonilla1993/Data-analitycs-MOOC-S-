@@ -1,5 +1,15 @@
-# Proyecto2
+# Data Analitycs (MOOC`S)
+
+En este proyecto, almacenaremos todos los archivos necesarios para el análisis exploratorio en Visual Studio, utilizando el 
+lenguaje Python. 
+También incluiremos los archivos de visualización de Power BI. Todos estos archivos se encontrarán en el siguiente enlace de 
+Google Drive.
+
+El objetivo principal de este proyecto es realizar análisis de datos, centrándonos principalmente en el ámbito del data 
+analytics.
 https://drive.google.com/drive/folders/1gcsTUBDLX6x6JVkGOSS9jzL08HH-1vCv
+
+![Texto alternativo](descarga.jpg)
 
 Las MOOCs han revolucionado el panorama educativo en todo el mundo, brindando acceso a la educación de calidad de 
 manera gratuita o a precios accesibles. Su impacto en Latinoamérica ha sido significativo, permitiendo a miles de 
