@@ -9,7 +9,7 @@ El objetivo principal de este proyecto es realizar análisis de datos, centránd
 analytics.
 https://drive.google.com/drive/folders/1gcsTUBDLX6x6JVkGOSS9jzL08HH-1vCv
 
-<img src="img.jpg" alt="Texto alternativo" width="1000" height="400">
+<img src="img.jpg" alt="Texto alternativo" width="900" height="400">
 
 Las MOOCs han revolucionado el panorama educativo en todo el mundo, brindando acceso a la educación de calidad de 
 manera gratuita o a precios accesibles. Su impacto en Latinoamérica ha sido significativo, permitiendo a miles de 
