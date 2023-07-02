@@ -9,7 +9,7 @@ El objetivo principal de este proyecto es realizar análisis de datos, centránd
 analytics.
 https://drive.google.com/drive/folders/1gcsTUBDLX6x6JVkGOSS9jzL08HH-1vCv
 
-![Texto alternativo](descarga.jpg){:width="600px"}
+![Texto alternativo](descarga.jpg){:height="300px" width="500px"}
 
 
 Las MOOCs han revolucionado el panorama educativo en todo el mundo, brindando acceso a la educación de calidad de 
