@@ -1,13 +1,10 @@
 # Data Analitycs (MOOC`S)
 
-En este proyecto, almacenaremos todos los archivos necesarios para el análisis exploratorio en Visual Studio, utilizando el 
-lenguaje Python. 
-También incluiremos los archivos de visualización de Power BI. Todos estos archivos se encontrarán en el siguiente enlace de 
-Google Drive.
+En este proyecto, se almacenarán todos los archivos necesarios para realizar el análisis exploratorio de datos utilizando Visual Studio y el lenguaje de programación Python. Además, se incluirán los archivos de visualización generados con Power BI. Todos estos archivos estarán disponibles en el siguiente enlace de Google Drive:
 
-El objetivo principal de este proyecto es realizar análisis de datos, centrándonos principalmente en el ámbito del data 
-analytics.
 https://drive.google.com/drive/folders/1gcsTUBDLX6x6JVkGOSS9jzL08HH-1vCv
+
+El objetivo principal de este proyecto es llevar a cabo análisis de datos, centrándonos especialmente en el ámbito del data analytics. Mediante el uso de Visual Studio y Python, podremos explorar los datos, realizar transformaciones, generar visualizaciones interactivas y extraer información significativa. Además, aprovecharemos la potencia de Power BI para crear representaciones visuales atractivas y comprensibles, que ayudarán a comunicar los resultados obtenidos. El enlace proporcionado te dará acceso a todos los archivos necesarios para llevar a cabo este proyecto de manera efectiva.
 
 <img src="img.jpg" alt="Texto alternativo" width="950" height="400">
 
